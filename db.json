@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+      "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+      "profile": { "name": "typicode" },
+      "image": { "url": "../Downloads/Gibson-1957-SJ200.png" }
+    }
+  ],
+  "guitar": [
+    {
+      "id": "1",
+      "guitarName": "Gibson-1957-SJ200",
+      "guitarImagr": { "url": "../Downloads/Gibson-1957-SJ200.png" },
+      "guitarColor": "green",
+      "guitarBrand": "gibson",
+      "guitarInfo": "ajhhh",
+      "guitarUrl": "https://www.melbournemusiccentre.com.au/pub/media/catalog/product/cache/3b000f45776ea2396d229b308c7a15d3/7/8/78023_1.jpg"
+    },
+    {
+      "id": "2",
+      "guitarName": "Gibson-1957-SJ200",
+      "guitarImagr": { "url": "../Downloads/Gibson-1957-SJ200.png" },
+      "guitarColor": "green",
+      "guitarBrand": "gibson",
+      "guitarInfo": "ajhhh",
+      "guitarUrl": "https://images.ctfassets.net/4jcppgetbqrc/3RE1CbZvi444EdyuVgoJiA/5db2cce41741517becea595df4e90891/jackson-hp-og.jpg"
+    },
+    {
+      "id": "3",
+      "guitarName": "Gibson-1957-SJ200",
+      "guitarImagr": { "url": "../Downloads/Gibson-1957-SJ200.png" },
+      "guitarColor": "green",
+      "guitarBrand": "gibson",
+      "guitarInfo": "ajhhh",
+      "guitarUrl": "https://www.melbournemusiccentre.com.au/pub/media/catalog/product/cache/3b000f45776ea2396d229b308c7a15d3/5/3/53078_1.jpg"
+    },
+    {
+      "id": "4",
+      "guitarName": "Gibson-1957-SJ200",
+      "guitarImagr": { "url": "../Downloads/Gibson-1957-SJ200.png" },
+      "guitarColor": "green",
+      "guitarBrand": "gibson",
+      "guitarInfo": "ajhhh",
+      "guitarUrl": "https://www.guitarworldonline.com.au/wp-content/uploads/sanchez-34-size-student-classical-guitar-koa-sc-36-koa-australia-copy.jpg"
+    }
+  ]
+}
